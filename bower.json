@@ -1,0 +1,23 @@
+{
+  "name": "beekmanlabs.com",
+  "version": "0.0.0",
+  "authors": [
+    "Ethan Hann <ethanhann@gmail.com>"
+  ],
+  "description": "Website for beekmanlabs.com.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "font-awesome": "~4.3.0",
+    "bootswatch": "~3.3.2",
+    "bootstrap-sass": "~3.3.3"
+  }
+}

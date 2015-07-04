@@ -1,0 +1,52 @@
+body {
+  background: #000000; }
+
+header h1 {
+  font-size: 60px;
+  font-weight: 900;
+  letter-spacing: -2px;
+  line-height: 100px; }
+
+a:hover {
+  text-decoration: none; }
+
+header.jumbotron {
+  background-color: #1f1f1f; }
+
+header .logo {
+  height: 200px; }
+
+footer {
+  padding: 100px 0;
+  font-size: 15px;
+  text-align: center !important;
+  text-transform: uppercase;
+  opacity: 0.6;
+  transition: opacity .2s ease; }
+
+footer:hover {
+  opacity: 1.0;
+  transition: opacity .2s ease; }
+
+footer p {
+  margin: 0; }
+
+.table th, .table td {
+  text-align: center !important; }
+
+.circle-text {
+  font-weight: 700;
+  background: #fff;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 50%;
+  border: solid 1px #ddd;
+  position: relative;
+  top: -53px; }
+
+.github-header {
+  margin-top: 0; }
